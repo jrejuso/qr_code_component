@@ -31,9 +31,9 @@ And this is how it looks in a mobile view with 500x600 pixels screen size.
 
 ### Links
 
-- Live Server URL: (https://jrejuso.github.io/qr-code-component)
+- Live Server URL: (https://jrejuso.github.io/qr_code_component)
 
-- Solution URL: (https://github.com/jrejuso/QR-code-component-challenge)
+- Solution URL: (https://github.com/jrejuso/qr_code_component)
 
 
 ## My Process
